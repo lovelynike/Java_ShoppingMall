@@ -8,5 +8,7 @@
 </head>
 <body>
 
+admin index page
+
 </body>
 </html>
